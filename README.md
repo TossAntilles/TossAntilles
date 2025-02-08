@@ -4,6 +4,12 @@
 Последние крупные проекты — работа с заказами в Яндекс.Маркете, пользовательская часть оплаты в Маркете.
 Много занимался релизами и поддержкой релизных процессов.
 
+---
+
+**Контакты:**
+[Telegram](https://t.me/Fehltritt)
+[Email](mailto:schicksalkreuzung@gmail.com)
+
 <!--
 **TossAntilles/TossAntilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
