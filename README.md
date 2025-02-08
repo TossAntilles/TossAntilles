@@ -6,8 +6,8 @@
 
 ---
 
-**Контакты:**
-[Telegram](https://t.me/Fehltritt)
+**Контакты:**  
+[Telegram](https://t.me/Fehltritt)  
 [Email](mailto:schicksalkreuzung@gmail.com)
 
 <!--
